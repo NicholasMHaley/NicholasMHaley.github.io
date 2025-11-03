@@ -2,7 +2,7 @@
 *Ph.D. Student at [Food and Resource Economics Department](https://fred.ifas.ufl.edu/), University of Florida*  
 📧 nhaley@ufl.edu  
 
-<img src="headshot.jpg" alt="Nicholas Haley" align="right" width="150" style="border-radius: 50%; margin-left: 20px;">
+<img src="1755016386067.jpg" alt="Nicholas Haley" align="right" width="150" style="border-radius: 50%; margin-left: 20px;">
 
 ---
 
