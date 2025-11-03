@@ -1,6 +1,6 @@
 # **Nicholas Haley**
 
-**Ph.D Student at [Food and Resource Economics Department]("https://fred.ifas.ufl.edu/"), University of Florida**  
+**Ph.D Student at [Food and Resource Economics Department](https://fred.ifas.ufl.edu/), University of Florida**  
 📧 nhaley@ufl.edu | 📞 +1 (727) 687-4119  
 
 ---
