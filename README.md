@@ -1,6 +1,6 @@
 # **Nicholas Haley**
 
-**Food and Resource Economics Department, University of Florida**  
+**Ph.D Student at [Food and Resource Economics Department]("https://fred.ifas.ufl.edu/"), University of Florida**  
 📧 nhaley@ufl.edu | 📞 +1 (727) 687-4119  
 
 ---
@@ -10,7 +10,7 @@
 **Ph.D. in Food and Resource Economics**  
 _University of Florida_ — 2021 – Present  
 **Dissertation Topic:** The Economics of Voluntary Property Buyouts  
-**Committee:** Olesya Savchenko (co-chair), Derek Farnsworth (co-chair), Leah Palm-Forster, Zhifeng Gao, and Katy Serafin  
+**Committee:** Olesya Savchenko (Chair), Derek Farnsworth, Leah Palm-Forster, and Zhifeng Gao.  
 
 **M.A. in Economics**  
 _University of Florida_ — 2019 – 2020  
