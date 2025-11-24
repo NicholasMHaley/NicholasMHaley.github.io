@@ -3,70 +3,77 @@ layout: default
 title: "Home"
 ---
 
-# **Nicholas Haley**
+# Nicholas Haley
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 40px;">
   <img src="1755016386067.jpeg"
        alt="Nicholas Haley"
        width="240"
-       style="border-radius: 8px; display: block; margin: 0 auto; margin-bottom: 20px;">
+       style="border-radius: 8px; display: block; margin: 0 auto 20px auto;">
 </div>
 
-## **Bio**
+<!-- ========== BIO BLOCK ========== -->
+<section style="background: #f8f8f8; padding: 25px; border-radius: 10px; margin-bottom: 40px;">
+  <h2>Bio</h2>
 
-Write your short professional bio here.
+  <p>
+    Write your short professional bio here.  
+    Include your research interests, your institutional affiliation, what you study, 
+    and any notable current projects. You can also add contact information or links.
+  </p>
 
-Include your research interests, your institutional affiliation, what you study, and any notable current projects. You can also add contact information, office hours, or links to your research group.
+  <p>
+    📄 <a href="CV.pdf"><strong>Download CV</strong></a>
+  </p>
+</section>
 
-📄 **[Download CV](CV.pdf)**  
-*(Replace with your actual file path.)*
+<!-- ========== PUBLICATIONS BLOCK ========== -->
+<section style="background: #fff; padding: 25px; border-radius: 10px; margin-bottom: 40px; border: 1px solid #eee;">
+  <h2>Publications</h2>
 
----
+  <p><strong>Haley, Nicholas</strong>, Coauthors.  
+  <em>“Title of Article.”</em> <strong>Journal Name</strong>, Year.</p>
 
-# **Publications**
+  <p><strong>Another Publication Title</strong>  
+  <em>Journal Name</em>, Year.</p>
+</section>
 
-List your peer-reviewed publications here. Example format:
+<!-- ========== WORKING PAPERS BLOCK ========== -->
+<section style="background: #f8f8f8; padding: 25px; border-radius: 10px; margin-bottom: 40px;">
+  <h2>Working Papers</h2>
 
-**Haley, Nicholas**, Coauthors.  
-*“Title of Article.”* **Journal Name**, Year.  
-DOI or link.
+  <p><strong>Title of Working Paper</strong>  
+  Coauthors, Year. Short summary or link to PDF.</p>
 
-**Another Publication Title**  
-*Journal Name*, Year.
+  <p><strong>Another Working Paper</strong>  
+  Include abstract link or status.</p>
+</section>
 
-You can also separate by *Journal Articles*, *Extension Publications*, etc., if you'd like.
+<!-- ========== TEACHING BLOCK ========== -->
+<section style="background: #fff; padding: 25px; border-radius: 10px; border: 1px solid #eee;">
+  <h2>Teaching Experience & Reviews</h2>
 
----
+  <h3>Courses Taught / Assisted</h3>
+  <ul>
+    <li>Course Name — University, Semester  
+      <br>Short description.</li>
+  </ul>
 
-# **Working Papers**
+  <h3>Teaching Evaluations</h3>
+  <p>Add comments, evaluations, or summaries here.</p>
 
-**Title of Working Paper**  
-Coauthors, Year.  
-Short summary or link to PDF.
-
-**Another Working Paper**  
-Include abstract link or status (e.g., “Under Review,” “In Preparation”).
-
----
-
-# **Teaching Experience & Reviews**
-
-### **Courses Taught / Assisted**
-- Course Name — University, Semester  
-  Short 1–2 sentence description.
-
-### **Teaching Evaluations**
-If you want to include student feedback or numerical ratings, add them here.
-
-### **Guest Lectures**
-- Topic — Event/Course, Year  
-  Short description of what you presented.
-
----
+  <h3>Guest Lectures</h3>
+  <ul>
+    <li>Topic — Event/Course, Year  
+      <br>Short description.</li>
+  </ul>
+</section>
 
 <style>
-/* Style tweak to widen content area in Cayman theme */
+/* Center the main content area for Minima */
 main {
   max-width: 900px;
+  margin: auto;
+  padding: 20px;
 }
 </style>
