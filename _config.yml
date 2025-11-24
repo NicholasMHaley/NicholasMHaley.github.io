@@ -1,3 +1,8 @@
 name: ""
 title: null
+theme: minima
+
+header_pages:
+  - index.md
+  - publications.md
 
