@@ -4,14 +4,6 @@ title: "Home"
 ---
 
 # Nicholas Haley
-
-<div style="text-align: center; margin-bottom: 40px;">
-  <img src="1755016386067.jpeg"
-       alt="Nicholas Haley"
-       width="240"
-       style="border-radius: 8px; display: block; margin: 0 auto 20px auto;">
-</div>
-
 <!-- ========== BIO BLOCK (TITLE + TEXT + IMAGE SIDE-BY-SIDE) ========== -->
 <section style="background: #f8f8f8; padding: 25px; border-radius: 10px; margin-bottom: 40px;">
 
