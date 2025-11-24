@@ -1,7 +1,8 @@
 title: ""
 description: "Academic website"
 
-remote_theme: poole/lanyon
+# Use the GitHub Pages compatible version
+remote_theme: just-the-docs/just-the-docs
 
 markdown: kramdown
 kramdown:
@@ -9,6 +10,7 @@ kramdown:
 
 plugins:
   - jekyll-remote-theme
+
 
 
 
