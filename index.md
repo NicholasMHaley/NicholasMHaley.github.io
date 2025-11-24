@@ -17,28 +17,27 @@ title: "Home"
 
   <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
 
-    <!-- LEFT COLUMN: TITLE + BIO TEXT -->
-    <div style="flex: 1 1 450px; padding-right: 20px; min-width: 280px;">
-      <h1 style="margin-top: 0;">Nicholas Haley</h1>
+  <div style="flex: 1 1 450px; padding-right: 20px; min-width: 280px;">
+    <h1 style="margin-top: 0;">Nicholas Haley</h1>
 
-      <p>
-        Write your short professional bio here.  
-        Include your research interests, your institutional affiliation, what you study,
-        and any notable current projects.
-      </p>
+  <p>
+    Write your short professional bio here.  
+    Include your research interests, your institutional affiliation, what you study,
+    and any notable current projects.
+  </p>
 
-      <p>
-        📄 <a href="CV.pdf"><strong>Download CV</strong></a>
-      </p>
-    </div>
+  <p>
+    📄 <a href="CV.pdf"><strong>Download CV</strong></a>
+  </p>
+  </div>
 
-    <!-- RIGHT COLUMN: IMAGE -->
-    <div style="flex: 0 0 auto; text-align: center; min-width: 200px;">
-      <img src="1755016386067.jpeg"
-           alt="Nicholas Haley"
-           width="220"
-           style="border-radius: 8px; margin-top: 20px;">
-    </div>
+  <!-- RIGHT COLUMN: IMAGE -->
+  <div style="flex: 0 0 auto; text-align: center; min-width: 200px;">
+    <img src="1755016386067.jpeg"
+         alt="Nicholas Haley"
+         width="220"
+         style="border-radius: 8px; margin-top: 20px;">
+  </div>
 
   </div>
 
