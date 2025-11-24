@@ -6,7 +6,7 @@ title: "Nicholas Haley"
 # **Nicholas Haley**
 
 <div style="text-align: center;">
-  <img src="your-photo.jpeg"
+  <img src="1755016386067.jpeg"
        alt="Nicholas Haley"
        width="240"
        style="border-radius: 8px; display: block; margin: 0 auto; margin-bottom: 20px;">
