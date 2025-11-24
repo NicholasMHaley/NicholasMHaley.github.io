@@ -1,6 +1,37 @@
-title: ""
-description: "Academic website"
-theme: minima
+title: "Nicholas Haley"
+description: "Academic Website"
+url: ""        # add your GitHub Pages URL later
+baseurl: ""    # if using username.github.io, keep empty
+
+# No theme: we include files manually
+theme: null
+
+# Author info (used in sidebar + social links)
+author:
+  name: "Nicholas Haley"
+  github: ""
+  linkedin: ""
+  email: ""
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Optional: Pagination (you can remove)
+paginate: 5
+plugins:
+  - jekyll-paginate
+
+# Navigation (top bar)
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Contact"
+    link: "/contact"
+
 
 
 
