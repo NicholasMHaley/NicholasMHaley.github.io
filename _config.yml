@@ -1,6 +1,6 @@
 title: "Nicholas Haley"
 description: "Academic website"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 markdown: kramdown
 kramdown:
