@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Nicholas Haley"
+title: "Home"
 ---
 
 # **Nicholas Haley**
