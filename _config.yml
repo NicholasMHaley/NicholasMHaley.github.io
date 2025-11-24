@@ -1,9 +1,14 @@
-title: " "
+title: ""
 description: "Academic website"
-theme: just-the-docs
+
+# Use the GitHub Pages compatible version
+remote_theme: just-the-docs/just-the-docs
 
 markdown: kramdown
 kramdown:
   input: GFM
+
+plugins:
+  - jekyll-remote-theme
 
 
